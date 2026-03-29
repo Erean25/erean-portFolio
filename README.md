@@ -1,2 +1,8 @@
 # erean-portFolio
-Laman web portfolio saya dan famili saya ,
+Laman Web Ini Adalah , Kenagan Saya Bersama Keluarga ,
+= Gambar
+= Vidio
+= Catatan
+
+===========================================================
+===========================================================
